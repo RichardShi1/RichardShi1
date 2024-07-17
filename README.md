@@ -1,4 +1,4 @@
-👋 Hi, I’m Richard! Currently, I work in quality assurance and project management within the Defence industry. <br>
+👋 Hi, I’m Richard! Currently, I work in quality project management within the Defence Industry. <br>
 
 📊 I'm excited to transition into data analytics, and aim to demonstrate my proficiency in data cleaning, analysis, and visualisation through this Github repository. <br> 
 
