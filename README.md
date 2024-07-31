@@ -4,7 +4,7 @@
 
 🔗 Let's [connect on LinkedIn](https://www.linkedin.com/in/richardshi1/) to explore collaboration opportunities! <br>
 
-💪🏻 Interesting fact: When I'm not diving into data, you can find me at the gym or indulging in books on self-improvement and entrepreneurship. <br>
+💪🏻 Interesting fact: When I'm not diving into data, you can find me at the gym, indulging in self-help books, or riding my motorbike. <br>
 
 <!---
 RichardShi1/RichardShi1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
